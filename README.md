@@ -114,5 +114,4 @@ This project is open-source under the **MIT License**.
 
 ## 🙋‍♂️ Author
 
-Built with ❤️ using OpenAI and Streamlit  
-Maintained by [Your Name](https://github.com/your-username)
+Built with ❤️ using OpenAI and Streamlit
